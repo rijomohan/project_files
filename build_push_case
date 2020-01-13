@@ -3,7 +3,7 @@ pipeline {
     agent any
 
 environment{
-			 props=load "/home/sivasankar88723/jenkins_cred/customenv.properties";
+			 props=load "/home/rijomohan/sklearn_bak/customenv.properties";
 			 returnObj=''
              
 	}
